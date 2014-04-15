@@ -1,7 +1,7 @@
 speaker
 =======
 
-JSDC Speaker 2014
+[Call for Speaker, JSDC 2014](https://github.com/jsdc2014/speaker/issues/new)
 
 ##如何參加 how to contribute
 
