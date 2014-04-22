@@ -18,3 +18,14 @@ speaker
 	Email: hq@jsdc.tw
 	
 	Outline:
+
+##其他方式
+
+如果你害羞，也歡迎寄信與 JSDC HQ。
+
+ * [JSDC HQ](hq@jsdc.tw)
+
+##贊助
+
+歡迎各單位贊助 JSDC 2014.
+Now you can sponsor JSDC 2014, [Contact us](hq@jsdc.tw)
