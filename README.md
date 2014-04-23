@@ -28,4 +28,4 @@ speaker
 ##贊助
 
 歡迎各單位贊助 JSDC 2014.
-Now you can sponsor JSDC 2014, [Contact us](mailto:hq@jsdc.tw)
+Now you can sponsor JSDC 2014, [Contact us](mailto:hq@jsdc.tw?subject=Speaker JSDC 2014)
