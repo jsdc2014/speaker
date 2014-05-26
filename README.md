@@ -34,5 +34,5 @@ Welcome to sponsor JSDC 2014, feel free to contact us.Now you can sponsor JSDC 2
 
 JSDC (JavaScript Developer Conference) is the only annual JavaScript conference in Taiwan. One goal of this conference is share and bring the greatest and latest JavaScript developments and technologies to various levels of JavaScript Developers. The other goal is to help sponsors to find the best JavaScript developers during the conference.
 
-JSDC (JavaScript Developer Conference) 是台灣最⼤大的 JavaScript 年度性技術研討會,旨在 提供台灣中⾼高階 JavaScript 技術⼈人才與世界最新 JavaScript 相關技術討論與分享。並希望各界贊助 商與中⾼高階技術⼈人才的媒合,創造雙贏的正向循環。#
+JSDC (JavaScript Developer Conference) 是台灣最大的 JavaScript 年度性技術研討會,旨在 提供台灣中高階 JavaScript 技術⼈才與世界最新 JavaScript 相關技術討論與分享。並希望各界贊助廠商與中高階技術人才的媒合,創造雙贏的正向循環。
 
