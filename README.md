@@ -2,7 +2,7 @@
 
  * [Call for Speaker, JSDC 2014](https://github.com/jsdc2014/speaker/issues/new)
 
-We are inviting speaker who are JavaScript expert / Node.js expert / Open source JavaScript conributor. Welcome to particiapte JSDC 2014.
+We are inviting speaker who are `JavaScript expert` / `Node.js expert` / `Open source JavaScript conributor` / Hardware of JavaScript library expirences. Welcome to particiapte JSDC 2014.
 
 ## how to contribute 如何參加 
 
