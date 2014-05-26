@@ -24,7 +24,7 @@ Also you can send eamil to JSDC HQ to contact us.
 
  * [JSDC HQ](hq@jsdc.tw)
 
-## Spnsor JSDC 贊助 JSDC
+## Sponsor JSDC 贊助 JSDC
 
 Welcome to sponsor JSDC 2014, feel free to contact us.Now you can sponsor JSDC 2014, [Contact us](mailto:hq@jsdc.tw?subject=Speaker JSDC 2014) 歡迎各單位贊助 JSDC 2014.
 
