@@ -1,14 +1,14 @@
-#Call for Speaker 講者招募
+# JSDC 2014 Call for Speakers 講者招募
 
  * [Call for Speaker, JSDC 2014](https://github.com/jsdc2014/speaker/issues/new)
 
 We are inviting speaker who are `JavaScript expert` / `Node.js expert` / `Open source JavaScript conributor` / Hardware of JavaScript library expirences. Welcome to particiapte JSDC 2014.
 
-## how to contribute 如何參加 
+## How to contribute 如何參加 
 
  * [Join / Recommend Speakers](https://github.com/jsdc2014/speaker/issues/new)
  
-## issue format格式
+## Issue format 格式
 	
 	Topic: JSDC 2014 is awesome. 太棒了
 	Job title: JSDC HQ
