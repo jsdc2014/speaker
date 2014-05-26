@@ -6,10 +6,7 @@ We are inviting speaker who are `JavaScript expert` / `Node.js expert` / `Open s
 
 ## how to contribute 如何參加 
 
- * [Create new issue](https://github.com/jsdc2014/speaker/issues/new)
- * title 請輸入演講標題，加稱呼, EX, JSDC AWESEOME - speaker
- * milestone 請選擇。 please choose a milestone item.
- 
+ * [Join / Recommend Speakers](https://github.com/jsdc2014/speaker/issues/new)
  
 ## issue format格式
 	
