@@ -28,3 +28,11 @@ Also you can send eamil to JSDC HQ to contact us.
 
 Welcome to sponsor JSDC 2014, feel free to contact us.Now you can sponsor JSDC 2014, [Contact us](mailto:hq@jsdc.tw?subject=Speaker JSDC 2014) 歡迎各單位贊助 JSDC 2014.
 
+## About JSDC
+
+ * [JSDC 2014](http://2014.jsdc.tw/)
+
+JSDC (JavaScript Developer Conference) is the only annual JavaScript conference in Taiwan. One goal of this conference is share and bring the greatest and latest JavaScript developments and technologies to various levels of JavaScript Developers. The other goal is to help sponsors to find the best JavaScript developers during the conference.
+
+JSDC (JavaScript Developer Conference) 是台灣最⼤大的 JavaScript 年度性技術研討會,旨在 提供台灣中⾼高階 JavaScript 技術⼈人才與世界最新 JavaScript 相關技術討論與分享。並希望各界贊助 商與中⾼高階技術⼈人才的媒合,創造雙贏的正向循環。#
+
