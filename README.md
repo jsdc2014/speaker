@@ -22,7 +22,7 @@ We are inviting speaker who are `JavaScript expert` / `Node.js expert` / `Open s
 Also you can send eamil to JSDC HQ to contact us.
 如果你害羞，也歡迎寄信與 JSDC HQ。
 
- * [JSDC HQ](hq@jsdc.tw)
+ * [JSDC HQ](mailto:hq@jsdc.tw)
 
 ## Sponsor JSDC 贊助 JSDC
 
