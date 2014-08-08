@@ -1,4 +1,11 @@
-# JSDC 2014 Call for Speakers 講者招募
+# End of call for Speaker 已截止
+
+
+-------
+
+Welcome join [JSDC 2014, 15, Aug on Sale](http://2014.jsdc.tw/)
+
+-------
 
  * [Call for Speaker, JSDC 2014](https://github.com/jsdc2014/speaker/issues/new)
 
